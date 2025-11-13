@@ -19,4 +19,5 @@ def run_pipeline():
     print("Done! Final video saved at:", final_output)
 
 if __name__ == "__main__":
+    
     run_pipeline()
